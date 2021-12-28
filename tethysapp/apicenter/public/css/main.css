@@ -1,0 +1,130 @@
+#app-header .tethys-app-header {
+    height: 70px;
+}
+
+#app-content-wrapper #app-content #app-navigation {
+    padding-top: 70px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#app-content-wrapper #app-content {
+    padding-top: 70px;
+    padding-bottom: 0px;
+}
+
+.icon-wrapper {
+    padding-right: 38px;
+    padding-top: 7px;
+}
+
+.app-title h3 {
+    margin-top: 15px;
+    margin-left: 20px;
+    line-height: 1.4;
+    width: auto;
+    text-align: left;
+    color: white !important;
+    margin-bottom: 10px;
+    font-family: Lato, "Segoe UI", Verdana, Helvetica, sans-serif;
+    display: inline-block !important;
+    font-weight: 500 !important;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-left: 25px;
+}
+
+#inner-app-content {
+    /* height: 879px; */
+    overflow-y: auto;
+    font-family: "Avenir Next", Arial, sans-serif;
+}
+
+#app-content-wrapper #app-content #app-navigation .nav li a {
+    font-family: "Avenir Next", Arial, sans-serif;
+    /*font-size: 15px;*/
+    font-size: 1.125em;
+    color: #75787b;
+}
+
+.nav li {
+    list-style: none;
+    border-bottom: 1px solid #d0d0ce;
+    font-size: 1.125em;
+    padding-left: 4px;
+}
+
+.nav {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.nav-li:hover {
+    color: #75787b;
+    border-left: 4px solid #09C;
+    background-color: #eee;
+    border-bottom: 1px solid #d0d0ce;
+    padding-left: 0;
+}
+
+#sidebar {
+    padding: 20px 10px 0px 10px;
+}
+
+.sidebar {
+    padding: 20px 10px 0px 10px;
+}
+
+ul.nav {
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #d0d0ce;
+}
+
+.nav-li a:hover {
+    background-color: #eee!important;
+    text-decoration: none;
+}
+.nav-li a:hover {
+    background: #eee!important;
+    text-decoration: none;
+}
+li a:hover {
+    background: #eee!important;
+    text-decoration: none;
+}
+
+/*.nav a, .nav a:link, .nav a:visited {*/
+/*    border-bottom: none;*/
+/*    color: #75787b;*/
+/*}*/
+.active-nav-li {
+    border-left: 4px solid #09C;
+    background-color: #e8e6eb;
+    padding-left: 0px!important;
+}
+
+/*#app-header .tethys-app-header{*/
+/*    position: inherit;*/
+/*}*/
+
+.border-top {
+    border-top: 1px solid #d0d0ce;
+}
+.float-right{
+        float: right;
+    margin-top: 10px;
+}
+.nav-li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.inner-li a{
+    position: relative;
+    display: block;
+    padding: 5px 15px;
+    font-size: 1em!important;
+}

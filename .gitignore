@@ -1,0 +1,15 @@
+*.pydevproject
+*.project
+*.egg-info
+*.class
+*.pyo
+*.pyc
+*.db
+*.sqlite
+*.DS_Store
+.idea/
+services.yml
+build/
+dist/
+tethysapp/apicenter/workspaces/app_workspace/MapImage/
+tethysapp/apicenter/__pycache__/
